@@ -21,7 +21,7 @@ class App extends React.Component {
         </div>
         <div className="footer">
           <span>Membre de <a className="underlined" href="https://zenyx.fr" target="_blank" rel="noopener noreferrer">Zenyx Group</a></span>
-          <span>Créé et hébergé en 🇫🇷</span>
+          <span>- Créé et hébergé en 🇫🇷</span>
         </div>
       </div>
     );
