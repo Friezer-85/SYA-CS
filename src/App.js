@@ -7,7 +7,7 @@ class App extends React.Component {
       <div className="card">
         <div className="header">
           <div className="logo">
-            <a href=".">LOGO</a>
+            <a href=".">Un logo, bientôt !</a>
           </div>
         </div>
         <div className="content">
@@ -21,7 +21,7 @@ class App extends React.Component {
         </div>
         <div className="footer">
           <span>Membre de <a className="underlined" href="https://zenyx.fr" target="_blank" rel="noopener noreferrer">Zenyx Group</a></span>
-          <span>- Créé et hébergé en 🇫🇷</span>
+          <span> - Créé et hébergé en 🇫🇷</span>
         </div>
       </div>
     );
