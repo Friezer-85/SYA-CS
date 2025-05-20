@@ -9,18 +9,19 @@ class App extends React.Component {
           <div className="logo">
             <a href=".">LOGO</a>
           </div>
+        </div>
         <div className="content">
           <div className="title-holder">
             <h1>Votre association comme vous ne l'avez jamais vue.</h1>
             <p>Nous arrivons bientôt, nous préparons tout ! Restez connectés 😉</p>
           </div>
           <a href="mailto:contact@startyourasso.fr">
-            <div className="cta">Envoyez nous de la force !</div>
+            <div className="cta">Envoyez-nous de la force !</div>
           </a>
         </div>
         <div className="footer">
           <span>Membre de <a className="underlined" href="https://zenyx.fr" target="_blank" rel="noopener noreferrer">Zenyx Group</a></span>
-          <span>Crée et hébergé en 🇫🇷</span>
+          <span>Créé et hébergé en 🇫🇷</span>
         </div>
       </div>
     );
