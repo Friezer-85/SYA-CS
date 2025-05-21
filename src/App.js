@@ -23,7 +23,7 @@ class App extends React.Component {
           </a>
         </div>
         <div className="footer">
-          <span>Membre de <a className="underlined" href="https://zenyx.fr" target="_blank" rel="noopener noreferrer">Zenyx Group - Fondé en 🇫🇷</a></span>
+          <span>Membre de <a className="underlined" href="https://zenyx.fr" target="_blank" rel="noopener noreferrer">Zenyx Group</a> - Fondé en 🇫🇷</span>
         </div>
       </div>
     );
