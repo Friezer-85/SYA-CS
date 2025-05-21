@@ -9,7 +9,7 @@ class App extends React.Component {
         <div className="header">
           <div className="logo">
             <a href=".">
-              <img src={logo} alt="Symbole de StartYourAsso" style={{ width: '256px', height: '256px' }}/>
+              <img src={logo} alt="Symbole de StartYourAsso" style={{ width: '128px', height: '128px' }}/>
             </a>
           </div>
         </div>
