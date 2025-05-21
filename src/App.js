@@ -7,7 +7,9 @@ class App extends React.Component {
       <div className="card">
         <div className="header">
           <div className="logo">
-            <a href=".">Un logo, bientôt !</a>
+            <a href=".">
+              <img src="assets/logo.png" alt="Symbole de StartYourAsso" />
+            </a>
           </div>
         </div>
         <div className="content">
