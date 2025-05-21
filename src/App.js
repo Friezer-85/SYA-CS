@@ -6,7 +6,7 @@ class App extends React.Component {
   render = () => {
     return (
       <div className="card">
-        <div className="header">
+        <div className="header" style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '128px' }}>
           <div className="logo">
             <a href=".">
               <img src={logo} alt="Symbole de StartYourAsso" style={{ width: '128px', height: '128px' }}/>
