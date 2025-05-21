@@ -1,6 +1,6 @@
-coming-soon
+SYA - Coming Soon
 ======================
-[![deploy](https://github.com/Friezer-85/SYA-CS/workflows/deploy/badge.svg)](https://github.com/arkn98/coming-soon/actions?query=workflow%3Adeploy)
+[![deploy](https://github.com/Friezer-85/SYA-CS/workflows/deploy/badge.svg)](https://github.com/Friezer-85/SYA-CS/actions?query=workflow%3Adeploy)
 [![license](https://img.shields.io/github/license/Friezer-85/SYA-CS)](LICENSE)
 
 A simple coming soon page for SYA, built using [create-react-app](https://github.com/facebook/create-react-app).
