@@ -1,5 +1,6 @@
 import React from 'react';
 import "./App.css";
+import logo from './assets/logo.png';
 
 class App extends React.Component {
   render = () => {
@@ -8,7 +9,7 @@ class App extends React.Component {
         <div className="header">
           <div className="logo">
             <a href=".">
-              <img src="assets/logo.png" alt="Symbole de StartYourAsso" />
+              <img src={logo} alt="Symbole de StartYourAsso" />
             </a>
           </div>
         </div>
